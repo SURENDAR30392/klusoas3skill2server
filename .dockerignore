@@ -1,0 +1,11 @@
+target/
+.git/
+.mvn/
+.metadata/
+.settings/
+.project
+.classpath
+help/
+HELP.md
+*.iml
+.idea/
